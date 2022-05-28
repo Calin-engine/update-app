@@ -1,0 +1,11 @@
+{
+  "Visibility": "VISIBLE",
+  "Title": "Test",
+  "Description": "What's new?\nFixed ui design\n
+Fixed bugs & problems",
+  "MainTextButton": "Update Now",
+  "Cancelable": "true",
+  "CancelButtonText": "Remaind Me",
+  "DownloadLink": "https://t.me/calinengine/",
+  "Version": "1.89.6"
+}
