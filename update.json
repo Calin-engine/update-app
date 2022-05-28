@@ -1,7 +1,9 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "Test",
-  "Description": "What's new?\nFixed ui design\n
+  "Title": "Update Available",
+  "Description": "What's new?
+
+Fixed ui design
 Fixed bugs & problems",
   "MainTextButton": "Update Now",
   "Cancelable": "true",
